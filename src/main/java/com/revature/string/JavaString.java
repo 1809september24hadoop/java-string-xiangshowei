@@ -13,7 +13,7 @@ package com.revature.string;
 public interface JavaString {
 	
 	/**
-	 * 1. Transform a String into it's integer version parsing character by character.
+	 * 1. Transform a String into its integer version parsing character by character.
 	 * 
 	 * Rule: Do NOT parse the whole String into a number, remember, character by character.
 	 * 
